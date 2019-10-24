@@ -1,0 +1,25 @@
+write any expression to simplify it : x+1...
+
+to use absolute value, use <> instead of ||
+
+to enter a vector put it inside {} each element is seperated by a comma
+
+you can make a matrix by imbeding vectors in another vector
+
+to enter the degree of a vector, add 'D' at the end of the second number
+
+To report any errors that shouldn't happen, text me.
+
+
+Examples :
+	x+1	->	x+1
+	x+x+1	->	2x+1
+	x+(x+1)	->	2x+1
+	x2	->	x^2 
+	cos(60)	->	~1.0000000
+	<-1>	->	|-1|	->	1.0
+	[1.2]	->	1.0
+	{0,1}+{1,1}	->	{1,2}
+	{1,45D}	->	{1*cos(45),1*cos(45)}	->	{0.7071,0.7071}
+
+	
